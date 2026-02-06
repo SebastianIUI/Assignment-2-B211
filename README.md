@@ -11,6 +11,6 @@
    D. The average number of blocks per game and the average number of steals per game for each player in each season.
    E. A list of the top 100 players and corresponding season for each of the following  metrics.
 
-5. The libraries used were numpu for the assorting and collection of the values to be presented in a orderly manner, os for the operating system for the file to immediately connect with the users file system.
+4. The libraries used were numpu for the assorting and collection of the values to be presented in a orderly manner, os for the operating system for the file to immediately connect with the users file system.
 
-6. Some potential improvements of this code would include the use of either dictionaries or def() to ensure a more fluid and more compact code to make it appear more cleaner to the user.
+5. Some potential improvements of this code would include the use of either dictionaries or def() to ensure a more fluid and more compact code to make it appear more cleaner to the user.
